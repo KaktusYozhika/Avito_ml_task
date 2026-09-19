@@ -68,7 +68,7 @@ CatBoost 1.2.10
 matplotlib 3.10.0
 ```
 
-Установить зависимости:
+Необходимо установить зависимости:
 
 ```bash
 pip install -r requirements.txt
