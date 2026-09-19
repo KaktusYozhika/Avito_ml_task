@@ -1,0 +1,6 @@
+data/
+bot_detection_challenge.zip
+catboost_info/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
