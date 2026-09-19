@@ -52,4 +52,41 @@
 06–12 апреля → обучение
 13–16 апреля → проверка
 17–19 апреля → финальный holdout
-20–26 апреля → hidden test
+20–26 апреля → скрытый тест
+```
+
+## Запуск
+
+Использовалось окружение:
+
+```text
+Python 3.13.15
+NumPy 2.1.3
+pandas 2.2.3
+scikit-learn 1.6.1
+CatBoost 1.2.10
+matplotlib 3.10.0
+```
+
+Установить зависимости:
+
+```bash
+pip install -r requirements.txt
+```
+
+Поместить архив:
+
+```text
+bot_detection_challenge.zip
+```
+
+в одну директорию с `final_solution.ipynb`.
+
+После этого запустить notebook.
+
+Notebook в конце сформирует:
+
+```text
+submission.csv
+```
+
